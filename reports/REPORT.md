@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyễn Đình Thái (2A202602718)  **Commit:** 18cc181  **Điểm tự động (`make grade`):** 84 / 88 *(100% public benchmark, 4 điểm ẩn giảng viên chấm)*
+**Họ tên / nhóm:** Nguyễn Đình Thái (2A202602718)  **Commit:** a2da4e7  **Điểm tự động (`make grade`):** 84 / 88 *(100% public benchmark, 4 điểm ẩn giảng viên chấm)*
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
